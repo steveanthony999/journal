@@ -1,5 +1,11 @@
 # journal
 
+## 9/28/22
+
+Well, I had written a nice journal entry, then when I went to submit it, the internet went down.  Good shit!
+
+-Steve
+
 ## 9/24/22
 
 ### C++ Udemy Course
