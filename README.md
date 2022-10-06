@@ -14,7 +14,7 @@ Think of it as Etsy meets Indie Hackers meets Supreme.
 
 Well, I had written a nice journal entry, then when I went to submit it, the internet went down.  Good shit!
 
--Steve
+- Steve
 
 ## 9/24/22
 
@@ -36,7 +36,7 @@ Diet and exercise.  Diet and EXERCISE.  DIET AND EXERCISE!!!!
 
 Need I say more?
 
--Steve
+- Steve
 
 
 ## 9/22/22
