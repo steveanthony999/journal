@@ -1,5 +1,15 @@
 # journal
 
+## 10/6/22
+
+I'm pivoting, sort of.  While I was pursuing a degree in CS, I got struck with some huge inspiration and saw a sort of 'opening' in a market.  That market is underground streetwear, and I think I could build a community around it.
+
+There are so many creative people in that field and they end up getting suckered into paying a lot of money to build their shopify stores.  I can totally help them out with creating an avenue to distribute their products and bring them together to collaborate on ideas.
+
+Think of it as Etsy meets Indie Hackers meets Supreme.
+
+- Steve
+
 ## 9/28/22
 
 Well, I had written a nice journal entry, then when I went to submit it, the internet went down.  Good shit!
